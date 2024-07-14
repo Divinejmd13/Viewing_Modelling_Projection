@@ -1,0 +1,3 @@
+/home/divine/Documents/CG/A2/CMakeFiles/Assignment02.dir
+/home/divine/Documents/CG/A2/CMakeFiles/edit_cache.dir
+/home/divine/Documents/CG/A2/CMakeFiles/rebuild_cache.dir
